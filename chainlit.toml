@@ -1,0 +1,5 @@
+[features]
+# Set the timeout to 60 seconds (or more if needed)
+timeout = 60
+[files]
+directory = "./.files"
