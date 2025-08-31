@@ -15,7 +15,7 @@ The code for trial was first tested locally and made proper adjustments before l
 The final code was modified for an engineering trainer that can answer from multiple engineering domains and guardrails were put in place to block any other inputs that are not related to those domains.
 
 
-An AI chatbot workflow was also made using n8n that also uses your google sheets as a tool to fetch data.
+An AI chatbot workflow was also made using n8n that also uses your google sheets as a tool to fetch data first and also uses gmail as a tool to send the data or specific messages to a given email.
 
 
 
